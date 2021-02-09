@@ -9,7 +9,7 @@
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>.
+</dl>
 6. Rolling scopes courses.
 7. high education and courses RS school.
 8. English A2.
