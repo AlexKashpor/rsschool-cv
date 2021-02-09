@@ -1,2 +1,2 @@
 # rsschool-cv
-см
+https://AlexKashpor.github.io/rsschool-cv/cv
