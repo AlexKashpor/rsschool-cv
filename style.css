@@ -8,9 +8,9 @@
     font-size: 16px;
     display: block;
     margin: 100px auto;
-    width: 800px;
-    border-right: 2px solid;
-    border-left: 2px solid #000;
+    width: 710px;
+    /* border-right: 2px solid;
+    border-left: 2px solid #000; */
 }
 h1{
 
@@ -21,15 +21,28 @@ li{
     margin-bottom: 20px;
     font-weight: 500;
 }
-img{
+.avatar{
     float: left;
     width: 200px;
     margin-right: 100px;
 }
 .list{
+    display: block;
     width: 400px;
     float: left;
 }
 footer{
     display: block;
+}
+footer a{
+    display: block;
+    float: right;
+    margin-left: 20px;
+}
+footer a:nth-child(4){
+    text-decoration: none;
+    margin-top: 12px;
+    color: black;
+    font-weight: 600;
+    margin-right: 420px;
 }
