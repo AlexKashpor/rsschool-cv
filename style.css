@@ -7,10 +7,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     display: block;
-    margin: 0 auto;
-    width: 700px;
-    margin-top: 50px;
-
+    margin: 100px auto;
+    width: 800px;
+    border-right: 2px solid;
+    border-left: 2px solid #000;
 }
 h1{
 
@@ -29,4 +29,7 @@ img{
 .list{
     width: 400px;
     float: left;
+}
+footer{
+    display: block;
 }
