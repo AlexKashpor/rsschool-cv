@@ -1,7 +1,7 @@
 # Alex Kashpor
-1. Alex Kashpor.
+1. *Alex Kashpor*.
 2. GH: [https://github.com/AlexKashpor]
-3. I want to work JavaScript developer. I'm stress-resistant, executive, responsible.
+3. **I want to work JavaScript developer. I'm stress-resistant, executive, responsible**.
 4. I have knowledge HTML, CSS, JS, Bootstrap, SCSS, Gulp, PS, Figma.
 5. <h2>Hello World</h2>
 6. Rolling scopes courses.
